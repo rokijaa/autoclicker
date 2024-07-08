@@ -1,0 +1,1 @@
+basic autoclicker with gui made with python(tkinet, pynput n time) :)
