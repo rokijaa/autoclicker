@@ -1,6 +1,5 @@
 from tkinter import *
 from pynput import keyboard
-import time
 
 # Root configuration
 root = Tk()
